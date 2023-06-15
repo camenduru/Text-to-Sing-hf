@@ -322,4 +322,4 @@ with gr.Blocks() as demo:
               ],
                 outputs=video)
 
-demo.launch()
+demo.launch(share=True)
