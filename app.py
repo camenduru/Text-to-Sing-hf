@@ -223,6 +223,7 @@ with gr.Blocks() as demo:
 
         ### Disclaimer
         Each melody has specific requirements for the lyrics (number of notes per verse and duration of each note).
+
         Use the examples provided to understand how they work and write valid lyrics to get best results
 
         Also, the length of the song is fixed, if you go over the line numbers the extra lyrics will be ignored.
@@ -259,12 +260,19 @@ with gr.Blocks() as demo:
                 ### Dark Trap by Jerry
 
                 > this is just a test
+
                 > don't worry about what I say
+                
                 > the lyrics want to  go crazy
+                
                 > when pushed too hard
+
                 > take it easy and relax
+
                 > this is moving too fast
+
                 > I can help you be
+
                 > a better singer
             """)
         with gr.Column():
@@ -272,8 +280,11 @@ with gr.Blocks() as demo:
                 ### Happy Birthday by Jerry
 
                 > happy birthday to you 
+
                 > happy birthday to you! 
+
                 > happy birthday dear Laura
+
                 > happy birthday to you!
             """)
         with gr.Column():
@@ -281,8 +292,11 @@ with gr.Blocks() as demo:
                 ### Deck the Halls by Cecilia
 
                 > Deck the halls with boughs of holly
+                
                 > Fa la la la la, la la la la 
+
                 > 'Tis the season to be jolly
+
                 > Fa la la la la, la la la la 
 
             """)
@@ -291,8 +305,11 @@ with gr.Blocks() as demo:
                 ### Levitate by Ed 
 
                 > this is just a test
+
                 > don’t worry about what I say
+
                 > the lyrics want to go crazy
+                
                 > when pushed too hard
             """)
         with gr.Column():
@@ -300,8 +317,11 @@ with gr.Blocks() as demo:
                 ### Move Your Body by Cecilia
 
                 > this is just a test
+
                 > don’t worry now
+
                 > the lyrics will come the less you think about them
+
                 > just feel the melody
             """)
      
