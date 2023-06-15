@@ -1,6 +1,6 @@
 ---
 title: Voicemod's Text To Sing
-emoji: 🏃
+emoji: 🎤
 colorFrom: black
 colorTo: cyan
 sdk: gradio
